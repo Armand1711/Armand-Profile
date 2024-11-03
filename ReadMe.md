@@ -15,7 +15,7 @@ Hi there! I’m Armand Naude, a passionate developer and UX designer. I speciali
 
 Below are my main project repositories from Terms 1 to 4 in my DV 200 major project series. Each project repository includes a comprehensive README documenting the development process. Be sure to explore each one for details on my approach and learnings:
 
-### Term 1 - Project Name
+### Term 1 - CryptoGraph
 - **Repository**: [Project Repository Link](https://github.com/Armand1711/Crypto-app)
 - **Description**: CryptoGraph is a comprehensive platform designed for tracking and analysing
 cryptocurrency data. It provides real-time information on various cryptocurrencies, along with
@@ -41,7 +41,7 @@ detailed charts and insights to help users make informed decisions. Below is a b
 
 ● HTML: Markup language for structuring the web pages
 
-### Term 2 - Project Name
+### Term 2 - RentalFinder
 - **Repository**: [Project Repository Link](https://github.com/EnzoDV08/DV_200_Group2_Final)
 - **Description**: Our Term 2 project was a group effort to create a car rental site. This platform allows users to
 log in, sign up, add cars to a favourites page, book cars, and view car information. The project introduced us to MongoDB, where all user information is stored on a MongoDB server.
