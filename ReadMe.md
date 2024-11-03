@@ -16,21 +16,36 @@ Hi there! I’m Armand Naude, a passionate developer and UX designer. I speciali
 Below are my main project repositories from Terms 1 to 4 in my DV 200 major project series. Each project repository includes a comprehensive README documenting the development process. Be sure to explore each one for details on my approach and learnings:
 
 ### Term 1 - Project Name
-- **Repository**: [Project Repository Link](https://github.com/yourusername/project1)
-- **Description**: Brief description of the project’s goal and outcome.
+- **Repository**: [Project Repository Link](https://github.com/Armand1711/Crypto-app)
+- **Description**: CryptoGraph is a comprehensive platform designed for tracking and analysing
+cryptocurrency data. It provides real-time information on various cryptocurrencies, along with
+detailed charts and insights to help users make informed decisions. Below is a brief guide to setting up and using CryptoGraph.
 - **Highlights**: 
-  - Key feature 1
-  - Key feature 2
-  - Technology used (e.g., HTML, CSS, JavaScript, etc.)
+● Real-time data on various cryptocurrencies
+● Detailed comparison of bid and ask prices
+● Timeline of price changes for selected cryptocurrencies
+● User-friendly interface with interactive charts
+  - Technology used 
+● React: Frontend library for building user interfaces
+● Recharts: Library for rendering charts
+● Axios: HTTP client for making API requests
+● CSS: Styling the components
+● HTML: Markup language for structuring the web pages
 
 ### Term 2 - Project Name
-- **Repository**: [Project Repository Link](https://github.com/yourusername/project2)
-- **Description**: Brief description of the project’s goal and outcome.
+- **Repository**: [Project Repository Link](https://github.com/EnzoDV08/DV_200_Group2_Final)
+- **Description**: Our Term 2 project was a group effort to create a car rental site. This platform allows users to
+log in, sign up, add cars to a favourites page, book cars, and view car information. The project introduced us to MongoDB, where all user information is stored on a MongoDB server.
 - **Highlights**:
-  - Key feature 1
-  - Key feature 2
-  - Technology used (e.g., Python, Django, etc.)
-
+● User authentication (login and signup)
+● Add cars to a favourites page
+● Book a car
+● View detailed car information
+  - Technology used 
+● MongoDB: Database for storing user information
+● Express.js: Backend framework for building web applications
+● React: Frontend library for building user interfaces
+● Node.js: JavaScript runtime for executing server-side code
 ### Term 3 - Project Name
 - **Repository**: [Project Repository Link](https://github.com/yourusername/project3)
 - **Description**: Brief description of the project’s goal and outcome.
