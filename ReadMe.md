@@ -66,22 +66,42 @@ log in, sign up, add cars to a favourites page, book cars, and view car informat
 ● Node.js: JavaScript runtime for executing server-side code
 
 ### Term 3 - Project Name
-- **Repository**: [Project Repository Link](https://github.com/yourusername/project3)
-- **Description**: Brief description of the project’s goal and outcome.
+- **Repository**: [Project Repository Link](https://github.com/Armand1711/Prime-Property-Solutions)
+- **Description**:Prime Property Solutions Prime Property Solutions is a real estate website that allows users to browse available
+ properties, make inquiries, submit offers, register and log in, and save their favourite properties. It provides a user-friendly interface
+  and a seamless experience for anyone looking to buy or sell properties.
+
 - **Highlights**:
-  - Key feature 1
-  - Key feature 2
-  - Technology used (e.g., React, Node.js, etc.)
+● User authentication (login and signup)
+● Add listings to a favourites page
+● Book a listing
+● View detailed car information
+
+
+Technologies Used:
+● CSS: Styling the components
+● PHP: Backend
+● My SQL: Database
+
 
 ### Term 4 - Project Name
-- **Repository**: [Project Repository Link](https://github.com/yourusername/project4)
-- **Description**: Brief description of the project’s goal and outcome.
+- **Repository**: [Project Repository Link](https://github.com/Armand1711/Dev-Eco-version-2-Final)
+- **Description**: EcoConnect is a web application built using the MERN stack (MongoDB, Express, React, Node.js) with a mission to drive 
+environmental conservation and promote sustainable practices. The application enables users to contribute donations, manage projects, and 
+communicate directly with the EcoConnect team. EcoConnect offers a platform for individuals and organisations to support environmental 
+causes by providing a streamlined, digital way to donate and participate.
 - **Highlights**:
-  - Key feature 1
-  - Key feature 2
-  - Technology used (e.g., MongoDB, Express, etc.)
+  Key Features
+Donation Management: Users can submit their name, email, and donation amount, helping fund conservation projects.
+Contact Us Form: Visitors can send messages directly to the EcoConnect team, allowing for open communication and feedback.
 
-*Note: Please make sure your repositories are set to public during your presentation.*
+Tech Stack
+Frontend: React.js, CSS, HTML
+Backend: Node.js, Express.js
+Database: MongoDB (using Mongoose for schema management)
+
+
+
 
 ---
 
